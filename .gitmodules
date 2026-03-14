@@ -1,0 +1,3 @@
+[submodule "sources/msdos"]
+	path = sources/msdos
+	url = https://github.com/NexuzOS/MS-DOS.git

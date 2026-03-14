@@ -1,0 +1,7 @@
+releases
+dist
+build
+node_modules
+*.log
+*.tmp
+.env
